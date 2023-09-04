@@ -1,0 +1,2 @@
+Esta entrega deverá conter uma pesquisa realizada pelo aluno,
+sobre ass boas práticas de versionamento de código/projetos.
