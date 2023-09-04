@@ -1,11 +1,13 @@
-Nesta entrega temos que analisar a pesquisa desenvolvida pelo aluno sobre o tema de
-boas práticas de versionamento. Analisar o padrão de entrega dos alunos, seja por
-pesquisas, ou até mesmo a copias de textos por ferramentas de exemplo "ChatGpt".
+Nesta entrega, vamos analisar um pouco mais sobre as boas práticas de versionamento de códigos.
+Descreva passos e orientações relevantes de como podemos atingir e seguir as orientações do
+tópico destacado, se preciso, pesquisar quais processos são validos e que, de fato, ajudam a
+manter essas diretivas.
 
-Independente da fonte, ou da forma da estrutura da pesquisa do aluno, analisar se
-o conteúdo respeita a orientação dos tópicos dos assuntos.
+Está atividade nos ajuda a entender a necessidade de realizar um versionamento bem estruturado,
+que, por meio dessas boas práticas, possamos estruturas nossos repositórios e versões, com as
+melhores técnicas.
 
-Exemplo:
+Exemplo de boa prática:
 	Quando devo fazer um commit?
 
 	O ideal é que você faça um commit a cada nova atualização funcional
